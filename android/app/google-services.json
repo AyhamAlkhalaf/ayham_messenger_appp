@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118956594088",
+    "project_id": "messenger-ayham",
+    "storage_bucket": "messenger-ayham.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118956594088:android:c9ff88141c65cbcf34839d",
+        "android_client_info": {
+          "package_name": "com.example.ayham_messenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118956594088-u9t9sjlqqpjet76pogbokk0ppulpjrj3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ayham_messenger_app",
+            "certificate_hash": "de8ff9b9fe9c971148f38790578c83710c1f128c"
+          }
+        },
+        {
+          "client_id": "118956594088-c9bk2q9m7tuq7o5lvaa4r4aeql4jbrq2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdRTlavNF7g3SIsCueTqubFthec7Vweo4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118956594088-c9bk2q9m7tuq7o5lvaa4r4aeql4jbrq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
